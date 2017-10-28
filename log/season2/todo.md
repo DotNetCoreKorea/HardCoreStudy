@@ -45,6 +45,7 @@
           - inline html
           - markdown
           - 규빈: 마크다운으로 가자, 에디터를 쓸 것인지 결정
+            - 1) http://pandao.github.io/editor.md/en.html
         - 글 이용 정책
           - 수정 가능
           - 삭제 불가
